@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1587063085 source:c:\users\sabrino\desktop\calculadoradaniel\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1587064956 source:c:\users\sabrino\desktop\calculadoradaniel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1587064957 c:\users\sabrino\desktop\calculadoradaniel\funciones.h
+
+1587060732 c:\users\sabrino\desktop\calculadoradaniel\funciones.c
+	<stdio.h>
+	"funciones.h"
+
